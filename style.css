@@ -5,6 +5,10 @@ body {
 p {
         color: black;
     }
+
 .COCACOLA {
         font-style: italic;
     } 
+
+    .img1 {width: 50%; 
+    }
