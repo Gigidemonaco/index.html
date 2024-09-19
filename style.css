@@ -6,8 +6,8 @@ body {
 nav a {
    margin-top: 5px;
     padding: 2px;
-    font-size: 20px;
-    text-decoration: none;
+    font-size: 30px;
+    text-decoration: dotted;
     color:rgba(186, 154, 217, 0.86)
 }
 
