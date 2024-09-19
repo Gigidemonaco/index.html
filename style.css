@@ -1,14 +1,24 @@
 body {
-    background-color: rgb(151, 180, 233); 
+    background-color: rgba(50, 145, 204, 0.817);
+    margin: 0px
+}
+
+nav a {
+   margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgba(186, 154, 217, 0.86)
+}
+
+.COCACOLA { 
+    font-style: italic;
+}
+
+.img1 {
+    width: 50%;
+}
+
+.centro {
     text-align: center;
 }
-p {
-        color: black;
-    }
-
-.COCACOLA {
-        font-style: italic;
-    } 
-
-    .img1 {width: 50%; 
-    }
