@@ -9,16 +9,19 @@ nav a {
     font-size: larger;
     text-decoration: lightslategray;
     color: lavender;
+    display: flex;
+    justify-content: center;
+   
 }
 h1 {
-    color: rgb(0, 0, 0).;
+    color: rgb(179, 255, 255).;
 }
 .COCACOLA { 
     font-style: oblique;
 }
 
 .img1 {
- width: 30%;
+ width: 70%;
 }
 
 .centro {
