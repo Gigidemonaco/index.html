@@ -1,20 +1,20 @@
 body { 
-    background-color: lightcyan; 
-    margin: 5px;
+    background-color: rgb(241, 196, 227); 
+    margin: 15px;
 }
 
 nav a { 
     margin-top: 5px;
     padding: 6px;
     font-size: larger;
-    text-decoration: lightslategray;
+    text-decoration: rgb(170, 171, 228);
     color: lavender;
     display: flex;
     justify-content: center;
    
 }
 h1 {
-    color: rgb(179, 255, 255).;
+    color: rgb(66, 172, 172).;
 }
 .COCACOLA { 
     font-style: oblique;
